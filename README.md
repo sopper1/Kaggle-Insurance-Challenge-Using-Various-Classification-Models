@@ -4,9 +4,7 @@
 
 ## Repository Contents
 
-Report: <a href=https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/blob/master/notebooks/report.ipynb>Technical Notebook </a>
-
-Additional Code: <a href=https://github.com/sopper1/Kaggle-Health-Insurance-Cross-Sell-Prediction/blob/master/notebooks/response_functions.py>Response Graphing Functions </a>
+Report: <a href=https://github.com/sopper1/Kaggle-Insurance-Challenge-Using-Various-Classification-Models/blob/master/notebooks/report.ipynb>Technical Notebook </a>
 
 ## README Contents
 
